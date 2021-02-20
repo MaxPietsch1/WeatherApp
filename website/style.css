@@ -1,0 +1,20 @@
+.weather-app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  /* justify-content: center; */
+  align-items: center;
+  background: rgb(162, 162, 162);
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding-top: 10vh;
+  border-radius: 3ch;
+}
+.output {
+  background: cornsilk;
+  width: 300px;
+  height: 200px;
+}
